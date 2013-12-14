@@ -15,6 +15,7 @@ Copyright 2013, Josh Cope
 h1, h2, h3, h4 {
 	color: yellow;
 	text-shadow: 5px 5px 5px black;
+	background: black;
 }
 #logo {
 	margin: 0 auto;
